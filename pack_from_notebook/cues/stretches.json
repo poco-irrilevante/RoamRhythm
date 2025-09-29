@@ -1,0 +1,10 @@
+[
+  {
+    "at_min": 0,
+    "type": "warmup"
+  },
+  {
+    "at_min": 140,
+    "type": "cooldown"
+  }
+]

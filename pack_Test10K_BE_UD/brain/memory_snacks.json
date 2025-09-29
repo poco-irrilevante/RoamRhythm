@@ -1,0 +1,12 @@
+[
+  {
+    "at_km": 2.54,
+    "type": "recall",
+    "prompt": "Noors: herhaal ‘hei, takk, vann’."
+  },
+  {
+    "at_km": 6.59,
+    "type": "nback",
+    "prompt": "Onthoud de reeks: rood, boom, 7. Herhaal na 20 seconden."
+  }
+]

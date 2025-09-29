@@ -1,0 +1,22 @@
+[
+  {
+    "at_km": 1.52,
+    "type": "add",
+    "prompt": "Tel op: 27 + 18"
+  },
+  {
+    "at_km": 3.55,
+    "type": "sub",
+    "prompt": "Reken uit: 85 − 27"
+  },
+  {
+    "at_km": 5.58,
+    "type": "mul",
+    "prompt": "Wat is 7 × 6?"
+  },
+  {
+    "at_km": 7.61,
+    "type": "div",
+    "prompt": "Wat is 48 ÷ 6?"
+  }
+]

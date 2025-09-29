@@ -1,0 +1,26 @@
+[
+  {
+    "start_min": 5,
+    "duration_s": 444,
+    "suggestions": [
+      "a-ha – Take On Me (3:48)",
+      "Eurythmics – Sweet Dreams (3:36)"
+    ]
+  },
+  {
+    "start_min": 71,
+    "duration_s": 555,
+    "suggestions": [
+      "Toto – Africa (4:55)",
+      "Simple Minds – Don't You (4:20)"
+    ]
+  },
+  {
+    "start_min": 127,
+    "duration_s": 435,
+    "suggestions": [
+      "The Cure – Just Like Heaven (3:32)",
+      "New Order – Blue Monday (3:43)"
+    ]
+  }
+]

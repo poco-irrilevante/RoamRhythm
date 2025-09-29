@@ -1,0 +1,13 @@
+id,km,lat,lon,eta_utc,duration_s,category,persona,title,ssml_file
+POI-01,0.71,51.592805134132504,5.158060854300857,1970-01-01T00:10:36.346533+00:00,100,landschap,Ecologist,Landschap & waterstaat,ssml/POI-01_landschap.ssml
+POI-02,1.5,51.591418432071805,5.167430564761162,1970-01-01T00:22:28.995552+00:00,95,geschiedenis_ijzertijd,Historian,Geschiedenis — focus op de IJzertijd,ssml/POI-02_geschiedenis_ijzertijd.ssml
+POI-03,2.29,51.5960830450058,5.172363901510835,1970-01-01T00:34:24.546355+00:00,100,cultuur_bekende_personen,CulturalGuide,Cultuur & lokale figuren,ssml/POI-03_cultuur_bekende_personen.ssml
+POI-04,3.09,51.60108771175146,5.180540448054671,1970-01-01T00:46:20.587609+00:00,95,architectuur_route,Architect,Architectuur langs de route,ssml/POI-04_architectuur_route.ssml
+POI-05,3.88,51.60288236103952,5.177724463865161,1970-01-01T00:58:15.169491+00:00,100,landschap,Ecologist,Landschap & waterstaat,ssml/POI-05_landschap.ssml
+POI-06,4.68,51.60290373489261,5.16719788312912,1970-01-01T01:10:09.530210+00:00,95,geschiedenis_ijzertijd,Historian,Geschiedenis — focus op de IJzertijd,ssml/POI-06_geschiedenis_ijzertijd.ssml
+POI-07,5.47,51.6057310346514,5.1574792340397835,1970-01-01T01:22:06.202597+00:00,100,cultuur_bekende_personen,CulturalGuide,Cultuur & lokale figuren,ssml/POI-07_cultuur_bekende_personen.ssml
+POI-08,6.26,51.609399458393455,5.147808361798525,1970-01-01T01:33:52.774345+00:00,95,architectuur_route,Architect,Architectuur langs de route,ssml/POI-08_architectuur_route.ssml
+POI-09,7.05,51.60992458462715,5.139246750622988,1970-01-01T01:45:46.517623+00:00,100,landschap,Ecologist,Landschap & waterstaat,ssml/POI-09_landschap.ssml
+POI-10,7.85,51.60485445521772,5.14059791341424,1970-01-01T01:57:41.703250+00:00,95,geschiedenis_ijzertijd,Historian,Geschiedenis — focus op de IJzertijd,ssml/POI-10_geschiedenis_ijzertijd.ssml
+POI-11,8.64,51.59825353883207,5.140624903142452,1970-01-01T02:09:35.861769+00:00,100,cultuur_bekende_personen,CulturalGuide,Cultuur & lokale figuren,ssml/POI-11_cultuur_bekende_personen.ssml
+POI-12,9.43,51.59236273728311,5.141776576638222,1970-01-01T02:21:29.754961+00:00,95,architectuur_route,Architect,Architectuur langs de route,ssml/POI-12_architectuur_route.ssml

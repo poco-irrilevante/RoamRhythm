@@ -1,0 +1,331 @@
+{
+  "routeId": "Test10K_BE_UD",
+  "version": "1.0.0",
+  "locale": "nl-NL",
+  "pace_kmh": 4.0,
+  "duration_min": 152,
+  "gpx": "gpx/Test10K_BE_UD.gpx",
+  "user_prefs": {
+    "categories": [
+      "landschap",
+      "geschiedenis_ijzertijd",
+      "cultuur_bekende_personen",
+      "architectuur_route"
+    ],
+    "depth": "standard",
+    "music_share": 0.2,
+    "language": {
+      "code": "no-NO",
+      "deck": "lang/deck_no_A1.csv"
+    },
+    "brain": {
+      "math": true,
+      "memory": true
+    },
+    "stretches": true
+  },
+  "segments": [
+    {
+      "id": "POI-01",
+      "geo": {
+        "lat": 51.592805134132504,
+        "lon": 5.158060854300857,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "landschap",
+          "persona": "Ecologist",
+          "depth": "overview",
+          "duration_s": 100,
+          "title": "Landschap & waterstaat",
+          "ssml": "ssml/POI-01_landschap.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-02",
+      "geo": {
+        "lat": 51.591418432071805,
+        "lon": 5.167430564761162,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "geschiedenis_ijzertijd",
+          "persona": "Historian",
+          "depth": "overview",
+          "duration_s": 95,
+          "title": "Geschiedenis — focus op de IJzertijd",
+          "ssml": "ssml/POI-02_geschiedenis_ijzertijd.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-03",
+      "geo": {
+        "lat": 51.5960830450058,
+        "lon": 5.172363901510835,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "cultuur_bekende_personen",
+          "persona": "CulturalGuide",
+          "depth": "overview",
+          "duration_s": 100,
+          "title": "Cultuur & lokale figuren",
+          "ssml": "ssml/POI-03_cultuur_bekende_personen.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-04",
+      "geo": {
+        "lat": 51.60108771175146,
+        "lon": 5.180540448054671,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "architectuur_route",
+          "persona": "Architect",
+          "depth": "overview",
+          "duration_s": 95,
+          "title": "Architectuur langs de route",
+          "ssml": "ssml/POI-04_architectuur_route.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-05",
+      "geo": {
+        "lat": 51.60288236103952,
+        "lon": 5.177724463865161,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "landschap",
+          "persona": "Ecologist",
+          "depth": "overview",
+          "duration_s": 100,
+          "title": "Landschap & waterstaat",
+          "ssml": "ssml/POI-05_landschap.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-06",
+      "geo": {
+        "lat": 51.60290373489261,
+        "lon": 5.16719788312912,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "geschiedenis_ijzertijd",
+          "persona": "Historian",
+          "depth": "overview",
+          "duration_s": 95,
+          "title": "Geschiedenis — focus op de IJzertijd",
+          "ssml": "ssml/POI-06_geschiedenis_ijzertijd.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-07",
+      "geo": {
+        "lat": 51.6057310346514,
+        "lon": 5.1574792340397835,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "cultuur_bekende_personen",
+          "persona": "CulturalGuide",
+          "depth": "overview",
+          "duration_s": 100,
+          "title": "Cultuur & lokale figuren",
+          "ssml": "ssml/POI-07_cultuur_bekende_personen.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-08",
+      "geo": {
+        "lat": 51.609399458393455,
+        "lon": 5.147808361798525,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "architectuur_route",
+          "persona": "Architect",
+          "depth": "overview",
+          "duration_s": 95,
+          "title": "Architectuur langs de route",
+          "ssml": "ssml/POI-08_architectuur_route.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-09",
+      "geo": {
+        "lat": 51.60992458462715,
+        "lon": 5.139246750622988,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "landschap",
+          "persona": "Ecologist",
+          "depth": "overview",
+          "duration_s": 100,
+          "title": "Landschap & waterstaat",
+          "ssml": "ssml/POI-09_landschap.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-10",
+      "geo": {
+        "lat": 51.60485445521772,
+        "lon": 5.14059791341424,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "geschiedenis_ijzertijd",
+          "persona": "Historian",
+          "depth": "overview",
+          "duration_s": 95,
+          "title": "Geschiedenis — focus op de IJzertijd",
+          "ssml": "ssml/POI-10_geschiedenis_ijzertijd.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-11",
+      "geo": {
+        "lat": 51.59825353883207,
+        "lon": 5.140624903142452,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "cultuur_bekende_personen",
+          "persona": "CulturalGuide",
+          "depth": "overview",
+          "duration_s": 100,
+          "title": "Cultuur & lokale figuren",
+          "ssml": "ssml/POI-11_cultuur_bekende_personen.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    },
+    {
+      "id": "POI-12",
+      "geo": {
+        "lat": 51.59236273728311,
+        "lon": 5.141776576638222,
+        "radius_m": 60
+      },
+      "layers": [
+        {
+          "category": "architectuur_route",
+          "persona": "Architect",
+          "depth": "overview",
+          "duration_s": 95,
+          "title": "Architectuur langs de route",
+          "ssml": "ssml/POI-12_architectuur_route.ssml",
+          "sources": []
+        }
+      ],
+      "fallbacks": {
+        "language_snack": "lang/deck_no_A1.csv"
+      }
+    }
+  ],
+  "cues": {
+    "music": [
+      {
+        "start_min": 5,
+        "duration_s": 444,
+        "suggestions": [
+          "a-ha – Take On Me (3:48)",
+          "Eurythmics – Sweet Dreams (3:36)"
+        ]
+      },
+      {
+        "start_min": 71,
+        "duration_s": 555,
+        "suggestions": [
+          "Toto – Africa (4:55)",
+          "Simple Minds – Don't You (4:20)"
+        ]
+      },
+      {
+        "start_min": 127,
+        "duration_s": 435,
+        "suggestions": [
+          "The Cure – Just Like Heaven (3:32)",
+          "New Order – Blue Monday (3:43)"
+        ]
+      }
+    ],
+    "stretches": [
+      {
+        "at_min": 0,
+        "type": "warmup"
+      },
+      {
+        "at_min": 140,
+        "type": "cooldown"
+      }
+    ]
+  }
+}
