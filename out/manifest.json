@@ -1,0 +1,114 @@
+{
+  "route": {
+    "meters": 10142.9,
+    "km": 10.143
+  },
+  "gpx": "Test10K_BE_UD.gpx",
+  "pace_kmh": 4.0,
+  "ssml": {
+    "intro": "ssml/intro.ssml",
+    "outro": "ssml/outro.ssml"
+  },
+  "pois": [
+    {
+      "id": "POI-01",
+      "km": 0.91,
+      "lat": 51.59366444684565,
+      "lon": 5.160507028922439,
+      "eta_utc": "2025-09-26T11:17:27+00:00",
+      "duration_s": 100,
+      "title": "Landschap & waterstaat",
+      "ssml": "ssml/POI-01.ssml"
+    },
+    {
+      "id": "POI-02",
+      "km": 1.92,
+      "lat": 51.59358917735517,
+      "lon": 5.170446373522282,
+      "eta_utc": "2025-09-26T11:25:27+00:00",
+      "duration_s": 95,
+      "title": "Ontstaan van nederzettingen",
+      "ssml": "ssml/POI-02.ssml"
+    },
+    {
+      "id": "POI-03",
+      "km": 2.94,
+      "lat": 51.600147346034646,
+      "lon": 5.178993148729205,
+      "eta_utc": "2025-09-26T11:33:34+00:00",
+      "duration_s": 100,
+      "title": "Ambachten en handel",
+      "ssml": "ssml/POI-03.ssml"
+    },
+    {
+      "id": "POI-04",
+      "km": 3.96,
+      "lat": 51.602804996073246,
+      "lon": 5.176644120365381,
+      "eta_utc": "2025-09-26T11:41:51+00:00",
+      "duration_s": 95,
+      "title": "Architectuur in de regio",
+      "ssml": "ssml/POI-04.ssml"
+    },
+    {
+      "id": "POI-05",
+      "km": 4.98,
+      "lat": 51.60389631986618,
+      "lon": 5.163249587640166,
+      "eta_utc": "2025-09-26T11:50:11+00:00",
+      "duration_s": 100,
+      "title": "Natuur & biodiversiteit",
+      "ssml": "ssml/POI-05.ssml"
+    },
+    {
+      "id": "POI-06",
+      "km": 5.98,
+      "lat": 51.60813605412841,
+      "lon": 5.151199512183666,
+      "eta_utc": "2025-09-26T11:58:29+00:00",
+      "duration_s": 95,
+      "title": "Polders, dijken en gemalen",
+      "ssml": "ssml/POI-06.ssml"
+    },
+    {
+      "id": "POI-07",
+      "km": 7.0,
+      "lat": 51.61034024320543,
+      "lon": 5.139637682586908,
+      "eta_utc": "2025-09-26T12:06:48+00:00",
+      "duration_s": 100,
+      "title": "Oude routes & verbindingen",
+      "ssml": "ssml/POI-07.ssml"
+    },
+    {
+      "id": "POI-08",
+      "km": 8.02,
+      "lat": 51.60340949892998,
+      "lon": 5.141140893101692,
+      "eta_utc": "2025-09-26T12:15:15+00:00",
+      "duration_s": 95,
+      "title": "Oorlogssporen en herdenking",
+      "ssml": "ssml/POI-08.ssml"
+    },
+    {
+      "id": "POI-09",
+      "km": 9.03,
+      "lat": 51.59586436115205,
+      "lon": 5.141362594440579,
+      "eta_utc": "2025-09-26T12:23:38+00:00",
+      "duration_s": 100,
+      "title": "Bestuur & gemeentefusies",
+      "ssml": "ssml/POI-09.ssml"
+    },
+    {
+      "id": "POI-10",
+      "km": 10.05,
+      "lat": 51.59196208231151,
+      "lon": 5.147954374551773,
+      "eta_utc": "2025-09-26T12:32:21+00:00",
+      "duration_s": 95,
+      "title": "Moderne tijd & toekomst",
+      "ssml": "ssml/POI-10.ssml"
+    }
+  ]
+}

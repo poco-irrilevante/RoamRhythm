@@ -1,0 +1,14 @@
+
+name: roamrhythm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  - pip
+  - pip:
+      - jupyterlab
+      - nbformat
+      - fitdecode
+      - fitparse
+      - gpxpy
+      - numpy
